@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## 🛠 Технологии:
+<h2>🛠 Технологии:</h3>
 
 </div>
 
@@ -26,4 +26,9 @@
 <img src="assets/icons/git.png" height="40" alt="git">
 <img src="assets/icons/api.png" height="40" alt="api">
 
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexxxwhiteee&theme=github" height="150" alt="stats-graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexxxwhiteee&theme=github" height="150" alt="stats"  />
 </div>
